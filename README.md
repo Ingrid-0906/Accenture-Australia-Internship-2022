@@ -1,5 +1,10 @@
 # Accenture-Australia
-This repo contains the info about the virtual internship done over 2022.
+## Why Accenture?
+At Accenture, we are innovators who look to improve the way the world works and lives. Coming from diverse backgrounds, we work together to solve our clients most challenging problems with leading-edge technologies.
+
+With the Accenture Discovery Program, you’ll get to experience what it is like to work on a project that mirrors the skills our teams have and the work they do in the real world. You’ll build the skills you need in areas such as project and stakeholder management, decision-making, data interpretation, as well as user experience and process design - in short, skills that we believe will give you an edge in anything that you do, from finishing your uni work, to pursuing personal projects and launching your career.
+
+Whether you already have an idea about how you want to use your degree, or are still feeling your way around, the Accenture Discovery Program will give you a taste of how a career with Accenture could help you make a real impact on the world around you.
 
 
 ### Module 1 - Project priorities and Plan
