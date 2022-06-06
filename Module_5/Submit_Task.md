@@ -65,8 +65,8 @@ The HESG claim site will enable vendors to lodge claims for students, as 20% of 
 Cost: $950,000
 
 # Selected Priorities
-	- **Direct upload from phone** -:> Cost: $300,000
-	- **Physical points of presence at university campuses to enable quick upload/request for reimbursement** -:> Cost: $370,000
-	- **Automated analytics dashboard for performance reporting** -:> Cost: $650,000	
-	- **Marketing campaign to spread awareness of eligibility and updated platform** -:> Cost: $350,000
-	- **Interactive training curriculum for students** -:> Cost: $70,000
+	- Direct upload from phone -:> Cost: $300,000
+	- Physical points of presence at university campuses to enable quick upload/request for reimbursement -:> Cost: $370,000
+	- Automated analytics dashboard for performance reporting -:> Cost: $650,000	
+	- Marketing campaign to spread awareness of eligibility and updated platform -:> Cost: $350,000
+	- Interactive training curriculum for students -:> Cost: $70,000
